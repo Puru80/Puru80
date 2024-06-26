@@ -20,7 +20,7 @@ Hi, I'm Puru Agarwal, a Software Developer 🚀 from India, currently, I'm a Sof
 **Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Vue.js;
+- 🌱 I’m currently learning MERN;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am hella fast and strong;
 - 📫 How to reach me: puru.agar99@gmail.com;
