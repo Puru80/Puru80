@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Puru Agarwal, a Software Developer 🚀 from India, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@Flash](https://www.flash.co/). I'm a creative problem solving enthusiast, with a constantly growing love for tech. Beside's programming, I am an athlete and a musician.
+Hi, I'm Puru Agarwal, a Software Developer 🚀 from India, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@Arrgo Trade](https://aargo.trade/). I'm a creative problem solving enthusiast, with a constantly growing love for tech. Beside's programming, I am an athlete and a musician.
 
   <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
 
