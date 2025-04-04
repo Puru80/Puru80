@@ -45,5 +45,6 @@ Hi, I'm Puru Agarwal, a Software Developer 🚀 from India, currently, I'm a Sof
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![IntellIJ](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code)
 
-
-![Puru's github stats](https://github-readme-stats.vercel.app/api?username=Puru80&show_icons=true&hide_border=true)
+<p align = "center">
+  <img align="left" alt="Puru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Puru80&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</p>
