@@ -48,3 +48,6 @@ Hi, I'm Puru Agarwal, a Software Developer 🚀 from India, currently, I'm a Sof
 <p align = "center">
   <img align="left" alt="Puru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Puru80&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puru80&theme=tokyonight)](https://github.com/Puru80?tab=repositories)
+
